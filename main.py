@@ -105,7 +105,7 @@ def main():
         print("=" * 70)
 
     except Exception as e:
-        print("❌ An error occurred during execution.")
+        print("An error occurred during execution.")
         print("Error details:", e)
         print("The program exited safely without crashing.")
 
