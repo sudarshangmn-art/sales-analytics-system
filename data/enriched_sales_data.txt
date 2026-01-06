@@ -1,0 +1,20 @@
+TransactionID|Date|ProductID|ProductName|Quantity|UnitPrice|CustomerID|Region|API_Category|API_Brand|API_Rating|API_Match
+T023|2024-12-09|P109|Wireless Mouse|9|523.0|C022|North||||False
+T035|2024-12-08|P102|Mouse|4|431.0|C011|North||||False
+T061|2024-12-10|P109|Wireless Mouse|2|775.0|C009|North||||False
+T057|2024-12-15|P101|LaptopPremium|10|81896.0|C004|North||||False
+T024|2024-12-25|P109|Wireless Mouse|5|1812.0|C011|North||||False
+T045|2024-12-26|P108|External Hard Drive|9|3802.0|C002|North||||False
+T008|2024-12-09|P110|Laptop Charger|1|2994.0|C015|North||||False
+T060|2024-12-27|P108|External Hard Drive1TB|9|8763.0|C010|North||||False
+T003|2024-12-01|P101|Laptop|2|59328.0|C008|North||||False
+T030|2024-12-08|P105|Webcam|1|2986.0|C029|North||||False
+T028|2024-12-25|P106|Headphones|3|5418.0|C025|North||||False
+T036|2024-12-18|P110|Laptop Charger|4|2705.0|C008|North||||False
+T044|2024-12-09|P103|Keyboard|8|1823.0|C028|North||||False
+T052|2024-12-17|P101|LaptopPremium|2|57178.0|C003|North||||False
+T042|2024-12-02|P102|Mouse|7|994.0|C026|North||||False
+T053|2024-12-13|P104|MonitorLED|2|16067.0|C019|North||||False
+T041|2024-12-14|P106|Headphones|7|4825.0|C028|North||||False
+T056|2024-12-22|P103|KeyboardMechanical|5|2672.0|C011|North||||False
+T026|2024-12-25|P109|Wireless Mouse|3|1539.0|C030|North||||False

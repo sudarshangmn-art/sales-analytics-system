@@ -1,0 +1,73 @@
+======================================================================
+SALES ANALYTICS REPORT
+Generated: 2026-01-06 21:16:11.701159
+Records Processed: 19
+======================================================================
+
+OVERALL SUMMARY
+Total Revenue: 1,320,580.00
+Total Transactions: 19
+Average Order Value: 69,504.21
+Date Range: 2024-12-01 to 2024-12-27
+
+REGION-WISE PERFORMANCE
+North: Sales=1,320,580.00, Transactions=19, Percentage=100.00%
+
+TOP 5 PRODUCTS
+1. Wireless Mouse | Quantity=19 | Revenue=19,934.00
+2. LaptopPremium | Quantity=12 | Revenue=933,316.00
+3. Mouse | Quantity=11 | Revenue=8,682.00
+4. Headphones | Quantity=10 | Revenue=50,029.00
+5. External Hard Drive | Quantity=9 | Revenue=34,218.00
+
+TOP 5 CUSTOMERS
+1. C004 | Spent=818,960.00 | Orders=1
+2. C008 | Spent=129,476.00 | Orders=2
+3. C003 | Spent=114,356.00 | Orders=1
+4. C010 | Spent=78,867.00 | Orders=1
+5. C028 | Spent=48,359.00 | Orders=2
+
+DAILY SALES TREND
+2024-12-01 | Revenue=118,656.00 | Transactions=1 | Unique Customers=1
+2024-12-02 | Revenue=6,958.00 | Transactions=1 | Unique Customers=1
+2024-12-08 | Revenue=4,710.00 | Transactions=2 | Unique Customers=2
+2024-12-09 | Revenue=22,285.00 | Transactions=3 | Unique Customers=3
+2024-12-10 | Revenue=1,550.00 | Transactions=1 | Unique Customers=1
+2024-12-13 | Revenue=32,134.00 | Transactions=1 | Unique Customers=1
+2024-12-14 | Revenue=33,775.00 | Transactions=1 | Unique Customers=1
+2024-12-15 | Revenue=818,960.00 | Transactions=1 | Unique Customers=1
+2024-12-17 | Revenue=114,356.00 | Transactions=1 | Unique Customers=1
+2024-12-18 | Revenue=10,820.00 | Transactions=1 | Unique Customers=1
+2024-12-22 | Revenue=13,360.00 | Transactions=1 | Unique Customers=1
+2024-12-25 | Revenue=29,931.00 | Transactions=3 | Unique Customers=3
+2024-12-26 | Revenue=34,218.00 | Transactions=1 | Unique Customers=1
+2024-12-27 | Revenue=78,867.00 | Transactions=1 | Unique Customers=1
+
+PRODUCT PERFORMANCE ANALYSIS
+Best Selling Day: 2024-12-15 (818,960.00)
+Low Performing Products:
+- External Hard Drive | Qty=9 | Revenue=34,218.00
+- Laptop Charger | Qty=5 | Revenue=13,814.00
+- External Hard Drive1TB | Qty=9 | Revenue=78,867.00
+- Laptop | Qty=2 | Revenue=118,656.00
+- Webcam | Qty=1 | Revenue=2,986.00
+- Keyboard | Qty=8 | Revenue=14,584.00
+- MonitorLED | Qty=2 | Revenue=32,134.00
+- KeyboardMechanical | Qty=5 | Revenue=13,360.00
+
+API ENRICHMENT SUMMARY
+Total Enriched Successfully: 0
+Success Rate: 0.00%
+Products Not Enriched:
+- Laptop Charger
+- Laptop
+- External Hard Drive1TB
+- Webcam
+- Headphones
+- LaptopPremium
+- External Hard Drive
+- KeyboardMechanical
+- Mouse
+- Wireless Mouse
+- Keyboard
+- MonitorLED
